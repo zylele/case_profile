@@ -13,7 +13,7 @@
                     <text class="description">{{item.keywords}}</text>
                 </view>
                 <view class="article-view">
-                    <image src='../../assets/icons/views_gray.png'></image> {{item.views}}
+                    <image src='../../assets/icons/views_gray.png'></image> {{999+item.views}}
                 </view>
             </view>
         </navigator>
